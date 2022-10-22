@@ -24,13 +24,13 @@ Still I have added comments on each line of the code so you can better understan
 
 ## Installation
 
-1-Open visual studio code or any code editor select a folder where you want to clone the repo
-2-Clone the Repo
+###1-Open visual studio code or any code editor select a folder where you want to clone the repo
+###2-Clone the Repo
 
 ```bash
 https://github.com/SaudZafeer/Whatsapp-manager.git
 ```
-3-Install all the required packages
+###3-Install all the required packages
 After cloning the code just open your terminal and copy paste the line below to get the requirement file to run the code.
 ```bash
 pip install -r requirnments.txt
