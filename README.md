@@ -35,6 +35,11 @@ After cloning the code just open your terminal and copy paste the line below to 
 ```bash
 pip install -r requirnments.txt
 ```
+#### How To Create Requirnment.txt
+
+```
+pip freeze > Requirnment.txt
+```
 
 ## Challenges:
 The worst challenge was to make sure the picture should be match with the name if the excel file column
