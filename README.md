@@ -24,8 +24,8 @@ Still I have added comments on each line of the code so you can better understan
 
 ## Installation
 
-###1-Open visual studio code or any code editor select a folder where you want to clone the repo
-###2-Clone the Repo
+###Open visual studio code or any code editor select a folder where you want to clone the repo
+###Clone the Repo
 
 ```bash
 https://github.com/SaudZafeer/Whatsapp-manager.git
