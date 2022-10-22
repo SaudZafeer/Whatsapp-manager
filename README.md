@@ -28,10 +28,10 @@ Still I have added comments on each line of the code so you can better understan
 2-Clone the Repo
 
 ```bash
-git clone https://github.com/Apace-Solutions/Whatsapp-manager.git
+https://github.com/SaudZafeer/Whatsapp-manager.git
 ```
 3-Install all the required packages
-
+After cloning the code just open your terminal and copy paste the line below to get the requirement file to run the code.
 ```bash
 pip install -r requirnments.txt
 ```
@@ -39,4 +39,4 @@ pip install -r requirnments.txt
 ## Challenges:
 The worst challenge was to make sure the picture should be match with the name if the excel file column
 ## If the bot stops workings:
-If suddenly the bots stops working while running the code there are high chances that there is an issue with its Paths(Xpaths, CSS Selector, ID, etc). These kind of problems you will only face if the website gets updated.Sometimes it seems like there is no update took place on the website, but it took place and it results paths Coordinates has changed
+If suddenly the bots stops working while running the code there are high chances that there is an issue with its elements Paths(Xpaths, CSS Selector, ID, etc). These kind of problems you will only face if the website gets updated and coordinates becomes different
