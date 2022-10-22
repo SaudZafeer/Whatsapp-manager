@@ -30,7 +30,7 @@ Still I have added comments on each line of the code so you can better understan
 ```bash
 https://github.com/SaudZafeer/Whatsapp-manager.git
 ```
-###3-Install all the required packages
+3-Install all the required packages
 After cloning the code just open your terminal and copy paste the line below to get the requirement file to run the code.
 ```bash
 pip install -r requirnments.txt
